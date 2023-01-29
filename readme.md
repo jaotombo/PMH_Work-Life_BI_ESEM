@@ -1,2 +1,2 @@
-This repository contains the datasets and the codes used for the following article :
+This repository contains the datasets and the codes used for the following article : <br>
 POSITIVE MENTAL HEALTH IN WORK AND PRIVATE LIFE : EXPLORATION OF AN INTEGRATED FACTOR STRUCTURE AND OTHER METHODOLOGICAL IMPLICATIONS
